@@ -15,5 +15,4 @@
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         android:scrollbars="vertical"/>
 
-
 </FrameLayout>

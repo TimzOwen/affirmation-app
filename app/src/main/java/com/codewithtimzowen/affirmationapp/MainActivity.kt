@@ -2,7 +2,7 @@ package com.codewithtimzowen.affirmationapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
+
 import androidx.recyclerview.widget.RecyclerView
 import com.codewithtimzowen.affirmationapp.adapter.ItemAdapter
 import com.codewithtimzowen.affirmationapp.data.DataSource
